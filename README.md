@@ -2,7 +2,7 @@
 
 StuntAssist adalah aplikasi yang memberikan diagnosis cepat, akurat, dan rekomendasi relevan untuk mendukung pertumbuhan dan perkembangan anak dengan optimal pada kasus stunting.
 
-![Screenshot Aplikasi](screenshot-aplikasi.png)
+![Screenshot Aplikasi](screenshot1.png)
 
 ## 🚀 Fitur Utama
 - **Diagnosis:** Melakukan diagnosis cepat untuk menentukan status stunting anak.
