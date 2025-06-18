@@ -1,4 +1,4 @@
-# 🍎 StuntAssist: Aplikasi Diagnosis Stunting 🌱
+//# 🍎 StuntAssist: Aplikasi Diagnosis Stunting 🌱
 
 StuntAssist adalah aplikasi yang memberikan diagnosis cepat, akurat, dan rekomendasi relevan untuk mendukung pertumbuhan dan perkembangan anak dengan optimal pada kasus stunting.
 
